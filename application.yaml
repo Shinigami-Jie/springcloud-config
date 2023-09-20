@@ -10,4 +10,4 @@ spring:
 spring:
   profiles: test
   application:
-    name: spring-cloud-test    
+    name: spring-cloud-test
